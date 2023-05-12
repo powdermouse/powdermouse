@@ -1,3 +1,5 @@
+[![Greetings](https://github.com/powdermouse/powdermouse/actions/workflows/greetings.yml/badge.svg)](https://github.com/powdermouse/powdermouse/actions/workflows/greetings.yml)
+
 ### Hi there 👋
 
 <!--
